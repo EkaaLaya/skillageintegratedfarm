@@ -330,7 +330,7 @@ body {
 
   .kotak {
     width: 350px; 
-    height: 200px; 
+    height: 150px; 
     background-color: white; 
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); 
     margin: 50px auto; 
@@ -344,16 +344,34 @@ body {
     display: flex;
   }
 
+  .praba {
+    margin-left: 10%;
+    font-weight: bold;
+  }
+
   .kambing {
     border-radius: 50%;
     width: 45%;
   }
 
-  .views {
-    display: flex;
+  .view {
+    font-size: 200%;
+    color: green;
   }
 
-  h6 {
-    margin-left: 5%;
-    font-weight: bold;
+
+  .item {
+    margin-top: 7%;
+  }
+
+  .foter {
+    margin-top: 10%;
+  }
+
+  .contact {
+    margin-top: 75px;
+  }
+
+  .media-sosial {
+    margin-top: 10%;
   }
